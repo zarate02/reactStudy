@@ -3,6 +3,7 @@
 ## 설치
 - nodejs
 - visual studio
+	- nodejs 추가
 - visual studio code
 	- eslint -> 문법검사기
 	- prettier -> 정렬기
